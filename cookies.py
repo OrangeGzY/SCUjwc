@@ -109,7 +109,7 @@ param_sever={
     'desktop': '选课成功，请查看！'
 }
 url_sever = "https://sc.ftqq.com/SCU61566T57ee337c6d60f1e1e6ca137ab29873825d8260c1ef41e.send"
-username = '2018141501071' + '5'
+username = #你的学号 + '5'
 count = 0
 while(1):
     r = requests.post(url_SelectCourse, headers=headers_CourseSelect, data=param_SelectCourse)  # 向自由选课界面post以获取课余量
