@@ -160,7 +160,7 @@ while(1):
 
 # param_query = {
 #     'kcNum': '1',
-#     'redisKey': '20181415010715'
+#     'redisKey': #你的学号+5
 # }
 # header = {
 #         'Referer':'http://202.115.47.141/login',
