@@ -177,7 +177,7 @@ print(queryCourse.text)
 
 # 网络渗透测试技术
 # 314009030
-# 314009030_01     http://202.115.47.141/student/courseSelect/selectResult/query      2018141501221  a123456789-
+# 314009030_01     http://202.115.47.141/student/courseSelect/selectResult/query      
 #高级商务英语阅读与翻译 01 102342020_01
 
 #一生受用的口腔卫生知识课    中华文化（历史篇）
